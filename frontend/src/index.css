@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Concert+One&family=Crete+Round&family=Inter:wght@400;600;700&family=Monoton&family=Montserrat+Alternates&family=Quantico&family=Rubik+Mono+One&family=Saira&family=Staatliches&display=swap');
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+  background-color: #1f2026;
+}
